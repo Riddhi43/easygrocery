@@ -23,10 +23,11 @@ Additionally, the project includes a robust back-end administrative system for o
 
 ## Getting Started
 
-To get started with project, you can follow these steps:
-
+To begin, follow these simple steps:
 1. Clone the repository to your local machine.
-2. Set up the necessary database configurations (if applicable).
+2. Import the `easygrocry.sql` file from the `database` folder into your MySQL database.
 3. Run the application locally to explore its features.
+
+You're now ready to explore and use the project!
 
 I hope this project enhances the online grocery shopping experience and makes it more convenient for users. Feel free to contribute to the project, report issues, or provide feedback to help me to improve it further.
